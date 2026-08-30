@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1991-vesting-initialize-has-no-caller-authentication",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1991-vesting-initialize-has-no-caller-authentication": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1991-vesting-initialize-has-no-caller-authentication",
+    "origin"
+  ]
+}
